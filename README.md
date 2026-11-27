@@ -2,6 +2,9 @@
 
 A creative Python animation built with Tkinter, transforming random characters into a beautiful visual experience.
 
+<div align="center">
+  <img src="https://ibb.co/bkjBc1y" width="100%" alt="Project Preview">
+</div>
 ## Features
 
 - ASCII-style eye animation
