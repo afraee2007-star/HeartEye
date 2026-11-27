@@ -29,7 +29,7 @@ A creative Python animation built with Tkinter, transforming random characters i
 3. Run the following command:
 
 ```bash
-python HeartEye.py
+HeartEye.py
 ```
 
 ## Interaction
