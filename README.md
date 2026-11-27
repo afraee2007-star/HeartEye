@@ -2,9 +2,8 @@
 
 A creative Python animation built with Tkinter, transforming random characters into a beautiful visual experience.
 
-<div align="center">
-  <img src="https://ibb.co/bkjBc1y" width="100%" alt="Project Preview">
-</div>
+<img width="818" height="659" alt="HeartEye" src="https://github.com/user-attachments/assets/08899a96-fbd7-4001-a72d-79854639aeb9" />
+
 ## Features
 
 - ASCII-style eye animation
