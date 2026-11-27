@@ -2,7 +2,7 @@
 
 A creative Python animation built with Tkinter, transforming random characters into a beautiful visual experience.
 
-<img width="818" height="659" alt="HeartEye" src="https://github.com/user-attachments/assets/08899a96-fbd7-4001-a72d-79854639aeb9" />
+<img width="1298" height="1015" alt="HeartEye" src="https://github.com/user-attachments/assets/682205c1-fbff-44f2-871f-28e4293a0f4b" />
 
 ## Features
 
